@@ -24,7 +24,6 @@
 ###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
 
 
