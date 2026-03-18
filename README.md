@@ -42,9 +42,9 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
-## Input:
+## INPUT:
 <img width="972" height="366" alt="Screenshot 2026-03-12 111402" src="https://github.com/user-attachments/assets/4da55c3e-e187-4071-a4a8-575212da229d" />
-## Output:
+## OUTPUT:
 <img width="978" height="490" alt="Screenshot 2026-03-12 111249" src="https://github.com/user-attachments/assets/6b752a53-7541-4d8f-bc91-8cf18ff336ef" />
 <img width="446" height="620" alt="Screenshot 2026-03-12 111331" src="https://github.com/user-attachments/assets/19cf2179-a7b4-48b2-acc0-2c5e154b3557" />
 
